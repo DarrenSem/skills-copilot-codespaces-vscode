@@ -64,5 +64,3 @@ const data = [
 // const names = data.flatMap(arr => arr.map(obj => obj.name));
 // const names = data.flat().map(item => item.name);
 
-
-
